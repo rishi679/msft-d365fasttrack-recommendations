@@ -1,0 +1,6 @@
+Recommendations:
+- It is recommended that a clear set of objectives with KPIs be developed and approved by business stake holders.
+- It is recommended that the scope and prioritization of the solution be validated against these objectives.
+- It is recommended that these objectives be used to evaluate change requests. Change requests that delay achieving core objectives without supporting other key objectives can be de-prioritized.
+- It is recommended that these objectives be used to evaluate the use of extensions in the solution versus functional or procedural workarounds. Investing in application extensions that do not support key objectives should be avoided where possible. 
+- It is recommended that, where possible, KPIs that are attached to implementation objectives be included in business acceptance of the solution.
